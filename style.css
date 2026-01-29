@@ -67,7 +67,7 @@
       background: #e2e8f0;
     }
 
-    /* 🔵 SIMON SAYS */
+    /*simon says*/
     .grid {
       display: grid;
       grid-template-columns: repeat(4, 90px);
@@ -91,7 +91,7 @@
       background: #22c55e;
     }
 
-    /* ⚡ REACTION */
+    /*reaction test*/
     #reactionContainer {
       position: relative;
       width: 600px;
@@ -135,7 +135,7 @@
       color: #cbd5e1;
     }
 
-    /* 🧮 QUICK MATH */
+    /*quick math*/
     .math-options {
       display: grid;
       grid-template-columns: repeat(2, 120px);
@@ -181,4 +181,5 @@
         width: 70px;
         height: 70px;
       }
+
     }
